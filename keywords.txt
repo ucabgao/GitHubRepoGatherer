@@ -1,2 +1,5 @@
 TypeError
+noSuchMethod
+has no method
+referenceerror
 undefined
